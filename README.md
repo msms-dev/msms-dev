@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @msms-dev 
+- 👀 I’m interested in Machine Learning, AI, Deep Learning, Advanced Analytics, and all things tech!
+- 🌱 I’m currently learning Neural Networks and Deep Tech
+- 💞️ I’m looking to collaborate on Generative AI projects 
+- 📫 How to reach me: maxwellsm.smith@outlook.com - Say Hi!

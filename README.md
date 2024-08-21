@@ -1,6 +1,6 @@
 Hi, I'm Maxwell. 🙋‍♂️
 
-I possess a curiosly driven and enthusiastic attitude to Data Science, AI, Machine Learning, and Data Engineering \ 🤖 / 
+I possess a curiosly driven and enthusiastic attitude to Data Science, AI, Machine Learning, and Data Engineering \ 🤖 /           
 I want to harmoneously apply complex data science models, along with their mathematical underpinning + a touch of wabi-sabi philosophy  
 --> to create value within a easily-accesable and usable UI/UX; whillst beautifully embracing failure. 
 
